@@ -1,5 +1,5 @@
 const Discord = require('discord.js');
-const token = 'NjkxNjAxMzE1MzY4OTI3MzAy.Xnjf9g.MT3b-IaAUmuJ4YJmfGWAwOsSXy0';
+const token = 'NjkxNjAxMzE1MzY4OTI3MzAy.XnxVIA.UTh9mvRhtN3VHgPuaH3ag6YMU3M';
 const { Client, MessageEmbed , MessageAttachment} = require('discord.js');
 
 const axios = require('axios');
