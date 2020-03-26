@@ -64,8 +64,10 @@ client.on('message', message => {
           break;
       case "country":
           client.commands.get('country').execute(message,args);
+          break;
       case "help":
           client.commands.get('help').execute(message,args);
+          break;
     }
 
 
