@@ -1,0 +1,2 @@
+1. "!corona" to get the latest World stats.
+2. "!country <name>" to get the latest stats of a country.
